@@ -6,4 +6,3 @@ Cereal
 Bread
 Eggs
 Water
-New stuff
