@@ -2,7 +2,7 @@ Lemons
 Bananas 
 Broccoli
 Rabbit Food
-Cereal
+Water
 Bread
 Eggs
 Milk
